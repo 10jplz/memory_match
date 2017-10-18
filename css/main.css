@@ -1,0 +1,17 @@
+
+.hidden {
+  color: white;
+  
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.row {
+  color: blue;
+}
+
+body {
+  background-color: red;
+}
